@@ -9,3 +9,5 @@ title.basics.csv.gz
 *.csv
 zippedData/
 *.feather
+figures/
+*.png
