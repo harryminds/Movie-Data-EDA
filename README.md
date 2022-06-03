@@ -72,4 +72,10 @@ Although in the right graph (**Budget vs Profit**) , we see that **the more mone
 
 - **Spend less, and make more, or spend more and make A LOT more.** While genres like Horror and Mystery may cost less and have a higher return, the studios that spent more money per movie, made the most gross profit. Also, movie genres that may require a higher budget to produce (Adventure, Animation, Sci-Fi) also created the most gross profit.
 
-**If Microsoft were to create a movie studio, they should consider the investment they choose to make in production. With a high budget, they can choose to produce films that have much higher profits. If they choose to spend less, they should focus on the movies with the highst returns.**
+**If Microsoft were to create a movie studio, they should consider the investment they choose to make in production. With a high budget, they can choose to produce films that have much higher profits. If they choose to spend less, they should focus on the movies with the highest returns.**
+
+# Repository Structure
+
+The main notebook containing the data cleaning and EDA is located in Movie_Data_EDA.ipynb.
+
+A second notebook containing the imdb scraper is located in imdb_scraper.ipynb.
