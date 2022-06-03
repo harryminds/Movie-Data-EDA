@@ -1,9 +1,3 @@
----
-
-typora-copy-images-to: ./img/movieproduction.png
-typora-root-url: ../dsc-phase-1-project-v2-4
----
-
 # Movie Data Analysis
 
 #### Author: Mike Roth
