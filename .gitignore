@@ -10,5 +10,4 @@ title.basics.csv.gz
 zippedData/
 *.feather
 figures/
-*.png
 *.csv
